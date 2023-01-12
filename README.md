@@ -1,6 +1,6 @@
 # FlutterWidgetHub
 
-A new Flutter project.
+FlutterWidgetHub is a open source project that aims to provide developers with a comprehensive collection of the latest and greatest Flutter widgets. It features an ever-expanding catalog of widgets, regularly updated and curated by the community. It serves as a one-stop-shop for developers looking for high-quality, reliable widgets that can be easily integrated into their projects. From UI elements to plugins and more, FlutterWidgetHub has it all, making it an essential resource for any Flutter developer
 
 ## Getting Started
 
