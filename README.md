@@ -1,4 +1,4 @@
-# flutter_docs_table
+# FlutterWidgetHub
 
 A new Flutter project.
 
