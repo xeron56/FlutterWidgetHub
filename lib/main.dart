@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_docs_table/1_appbar/appbar_widget.dart';
-import 'package:flutter_docs_table/2_column/column_widget.dart';
-import 'package:flutter_docs_table/3_listview/listView_separated.dart';
-import 'package:flutter_docs_table/3_listview/listview.dart';
-import 'package:flutter_docs_table/3_listview/listview_custom.dart';
-import 'package:flutter_docs_table/4_single_child_scroll_view/single_child_scroll_view.dart';
-import 'package:flutter_docs_table/5_clip_rrect/5_clip_rrect.dart';
+import 'package:flutter_widget_hub/1_appbar/appbar_widget.dart';
+import 'package:flutter_widget_hub/2_column/column_widget.dart';
+import 'package:flutter_widget_hub/3_listview/listView_separated.dart';
+import 'package:flutter_widget_hub/3_listview/listview.dart';
+import 'package:flutter_widget_hub/3_listview/listview_custom.dart';
+import 'package:flutter_widget_hub/4_single_child_scroll_view/single_child_scroll_view.dart';
+import 'package:flutter_widget_hub/5_clip_rrect/5_clip_rrect.dart';
 
 void main() {
   runApp(const MyApp());

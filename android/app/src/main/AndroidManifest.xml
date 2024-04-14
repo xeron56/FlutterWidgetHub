@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.flutter_docs_table">
+    package="com.example.flutter_widget_hub">
    <application
-        android:label="flutter_docs_table"
+        android:label="flutter_widget_hub"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

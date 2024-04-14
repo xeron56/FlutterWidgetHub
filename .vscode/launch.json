@@ -5,18 +5,18 @@
 	"version": "0.2.0",
 	"configurations": [
 		{
-			"name": "flutter_docs_table",
+			"name": "flutter_widget_hub",
 			"request": "launch",
 			"type": "dart"
 		},
 		{
-			"name": "flutter_docs_table (profile mode)",
+			"name": "flutter_widget_hub (profile mode)",
 			"request": "launch",
 			"type": "dart",
 			"flutterMode": "profile"
 		},
 		{
-			"name": "flutter_docs_table (release mode)",
+			"name": "flutter_widget_hub (release mode)",
 			"request": "launch",
 			"type": "dart",
 			"flutterMode": "release"
